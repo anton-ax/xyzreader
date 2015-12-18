@@ -8,5 +8,11 @@
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="list_image_width">100dp</dimen>
+    <dimen name="list_item_padding">4dp</dimen>
+    <dimen name="list_bottom_spacing">28dp</dimen>
+    <dimen name="floating_button_size">56dp</dimen>
+    <dimen name="dynamic_image_height">100dp</dimen>
+    <dimen name="article_title_padding">10dp</dimen>
+    <dimen name="article_title_bottom_padding">@dimen/article_title_padding</dimen>
 
 </resources>

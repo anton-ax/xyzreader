@@ -16,7 +16,7 @@
 
         <android.support.v7.widget.Toolbar
             android:id="@+id/action_up"
-            android:background="#44000000"
+            android:background="@color/details_toolbar_background"
             android:layout_height="wrap_content"
             android:layout_width="match_parent"
             app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"

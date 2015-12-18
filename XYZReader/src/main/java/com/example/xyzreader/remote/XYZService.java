@@ -5,6 +5,7 @@ import com.example.xyzreader.model.Article;
 import java.util.List;
 
 import retrofit.http.GET;
+
 /**
  * Created by Anton on 12/17/2015.
  */
